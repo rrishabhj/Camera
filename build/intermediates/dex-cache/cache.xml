@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/rishabh/Camera/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/rishabh/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_0ae142da384838887f393d87b1876a49ecf22aca/classes.dex" />
+    </item>
+    <item
+        jar="/home/rishabh/Camera/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/rishabh/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_82f5a2320e3732056f9caabb6b594cacfd731840/classes.dex" />
+    </item>
+    <item
+        jar="/home/rishabh/Camera/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/rishabh/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_204194467f3e03fb2ef016fbfed088466865a497/classes.dex" />
+    </item>
+    <item
+        jar="/home/rishabh/Camera/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/rishabh/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_abf89887d57d4ec4e7df472800b1e877b2f9790c/classes.dex" />
+    </item>
+    <item
+        jar="/home/rishabh/Camera/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/rishabh/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_084a94531be26f49f4cdadd01dde0a3fe72fb4f6/classes.dex" />
+    </item>
+    <item
+        jar="/home/rishabh/Camera/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/rishabh/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_ba4cd75144efa868d23ceb3efd4d54c6b3cc228f/classes.dex" />
+    </item>
+    <item
+        jar="/home/rishabh/Camera/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/rishabh/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_aa6809ee125bf49274cf5ac27902bc19c07ead4d/classes.dex" />
+    </item>
+    <item
+        jar="/home/rishabh/Camera/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/rishabh/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_661ba3b8a0312f8865978be0f0e8bd9cde6204ca/classes.dex" />
+    </item>
+    <item
+        jar="/home/rishabh/Camera/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/rishabh/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_8bffab1ad8db65e54b03495aee339fb5e5d15d9a/classes.dex" />
+    </item>
+    <item
+        jar="/home/rishabh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/rishabh/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_3e9d3e13dec4189be3a167eec35e396fa4687785/classes.dex" />
+    </item>
+    <item
+        jar="/home/rishabh/Camera/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/rishabh/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_90009b5b335792499a6bcb8c3acd6e2cb3a206ce/classes.dex" />
+    </item>
+    <item
+        jar="/home/rishabh/Camera/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7e63e6adb1963d745aaef9d11095edf66565c85d">
+        <dex dex="/home/rishabh/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_76c98c4005f66484ff4bdd3b666d94210453927d/classes.dex" />
+    </item>
+    <item
+        jar="/home/rishabh/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/rishabh/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_06f76e3567c766759a24d593d05add2bc82985a4/classes.dex" />
+    </item>
+    <item
+        jar="/home/rishabh/Camera/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/rishabh/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_61830ff82898b01378db3c3b19c544fbca10c3ba/classes.dex" />
+    </item>
+    <item
+        jar="/home/rishabh/Camera/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/rishabh/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_0699bc22f7799353284710ff1d1db745f83771dc/classes.dex" />
+    </item>
+    <item
+        jar="/home/rishabh/Camera/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/rishabh/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_923ff7f90217f903c1005922b5a785e6eaa54c6c/classes.dex" />
+    </item>
+    <item
+        jar="/home/rishabh/Camera/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ea0da83e10c0af6293b814c9a38ec4f51047a8e3">
+        <dex dex="/home/rishabh/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_34243999ba09f4f06f68a52106dc24fb425a7df8/classes.dex" />
+    </item>
+
+</items>
